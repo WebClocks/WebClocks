@@ -1,8 +1,8 @@
 <div align="center">
 
-# WebClocks
+# Web Clock Online
 
-🕒 Elegant Online Clocks & Precise Timers for Efficient Time Management
+🕒 Elegant Online Web Clocks 
 
 [WebClock Online](https://webclock.online) · [Report Bug](https://github.com/WebClocks/WebClocks/issues) · [About Us](https://webclock.online/about)
 
